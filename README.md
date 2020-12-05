@@ -18,6 +18,10 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby)
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-gray?style=flat-square&logo=kubernetes)
+![Helm](https://img.shields.io/badge/-Helm-gray?style=flat-square&logo=helm)
+![Manjaro](https://img.shields.io/badge/-Manjaro-gray?style=flat-square&logo=manjaro)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-gray?style=flat-square&logo=freebsd)
+![macOS](https://img.shields.io/badge/-macOS-gray?style=flat-square&logo=apple)
 
 [![Ahmed Yakout StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5299155&theme=dark&layout=compact)](https://stackoverflow.com/users/5299155/yakout)
 
