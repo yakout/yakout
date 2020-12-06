@@ -19,6 +19,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-gray?style=flat-square&logo=kubernetes)
 ![Helm](https://img.shields.io/badge/-Helm-gray?style=flat-square&logo=helm)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-gray?style=flat-square&logo=ubuntu)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-gray?style=flat-square&logo=manjaro)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-gray?style=flat-square&logo=freebsd)
 ![macOS](https://img.shields.io/badge/-macOS-gray?style=flat-square&logo=apple)
