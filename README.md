@@ -1,4 +1,5 @@
-![img](https://github.com/yakout/yakout/blob/main/banner_thin.png)
+
+<!-- ![img](https://github.com/yakout/yakout/blob/main/banner_thin.png) -->
 
 ![Visitor Count](https://profile-counter.glitch.me/yakout/count.svg)
 
