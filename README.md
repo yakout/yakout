@@ -1,6 +1,18 @@
 
 <!-- ![img](https://github.com/yakout/yakout/blob/main/banner_thin.png) -->
 
+```
+          _______  _        _______          _________
+|\     /|(  ___  )| \    /\(  ___  )|\     /|\__   __/
+( \   / )| (   ) ||  \  / /| (   ) || )   ( |   ) (   
+ \ (_) / | (___) ||  (_/ / | |   | || |   | |   | |   
+  \   /  |  ___  ||   _ (  | |   | || |   | |   | |   
+   ) (   | (   ) ||  ( \ \ | |   | || |   | |   | |   
+   | |   | )   ( ||  /  \ \| (___) || (___) |   | |   
+   \_/   |/     \||_/    \/(_______)(_______)   )_(   
+                                                    
+```
+
 ![Visitor Count](https://profile-counter.glitch.me/yakout/count.svg)
 
 [![Years Badge](https://badges.pufler.dev/years/yakout)](https://badges.pufler.dev)
