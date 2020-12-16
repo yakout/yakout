@@ -1,6 +1,7 @@
 
 <!-- ![img](https://github.com/yakout/yakout/blob/main/banner_thin.png) -->
 
+<!--
 ```
           _______  _        _______          _________
 |\     /|(  ___  )| \    /\(  ___  )|\     /|\__   __/
@@ -12,6 +13,7 @@
    \_/   |/     \||_/    \/(_______)(_______)   )_(   
                                                     
 ```
+-->
 
 ![Visitor Count](https://profile-counter.glitch.me/yakout/count.svg)
 
