@@ -46,6 +46,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yakout&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakout&hide=TeX&layout=compact) -->
 
+![FreeBSD Foundation Donor](https://freebsdfoundation.org/wp-content/uploads/2015/12/proud_donor.gif)
 
 
 <!--
