@@ -45,8 +45,7 @@
 
 [![Ahmed Yakout StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5299155&theme=dark&layout=compact)](https://stackoverflow.com/users/5299155/yakout)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yakout&count_private=true&show_icons=true&include_all_commits=true&theme=dark)    [![FreeBSD Foundation Donor](https://freebsdfoundation.org/wp-content/uploads/2015/12/proud_donor.gif)](https://freebsdfoundation.org/donate)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yakout&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
 
 <a href='http://www.catb.org/hacker-emblem/'>
