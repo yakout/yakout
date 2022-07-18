@@ -17,7 +17,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/yakout/count.svg)
 
-[![Years Badge](https://badges.pufler.dev/years/yakout)](https://badges.pufler.dev)
+<!-- [![Years Badge](https://badges.pufler.dev/years/yakout)](https://badges.pufler.dev) -->
 ![Redis](https://img.shields.io/badge/-Redis-gray?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
