@@ -41,7 +41,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-gray?style=flat-square&logo=apple)
 ![Qemu](https://img.shields.io/badge/-QEMU-gray?style=flat-square&logo=qemu)
 
-[![Ahmed Yakout StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5299155&theme=dark&layout=compact)](https://stackoverflow.com/users/5299155/yakout)
+<!-- [![Ahmed Yakout StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5299155&theme=dark&layout=compact)](https://stackoverflow.com/users/5299155/yakout) -->
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=yakout&count_private=true&show_icons=true&include_all_commits=true&theme=dark) -->
 
